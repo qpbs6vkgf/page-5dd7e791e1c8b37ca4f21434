@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.sxdyth.com/sitemap.xml
